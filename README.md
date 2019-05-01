@@ -6,25 +6,9 @@
 
 [Portfolio of YUICHI SATO.](https://yuichi.tk)
 
-## Features
+## Use Template
 
-- Awesome function
-- Awesome UI
-- ...
-
-For more information, see `awesome-tool --help`.
-
-## Requirement
-
-- Requirement
-- Requirement
-- Requirement
-
-## Usage
-
-1. Usage
-2. Usage
-3. Usage
+[Leap](https://leap.mediumra.re/index.html)
 
 ## Installation
 
