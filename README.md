@@ -4,11 +4,7 @@
 
 ## Description
 
-Portfolio of YUICHI SATO.
-
-***DEMO:***
-
-[Demo](https://yuichi.tk)
+[Portfolio of YUICHI SATO.](https://yuichi.tk)
 
 ## Features
 
